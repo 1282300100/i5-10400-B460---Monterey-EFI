@@ -1,0 +1,1 @@
+# i5-10400-B460---Monterey-EFI
